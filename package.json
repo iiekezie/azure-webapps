@@ -1,0 +1,8 @@
+{
+  "name": "azure-webapp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",  // Adjust for your entry file
+    "test": "echo \"No tests configured\""
+  }
+}
